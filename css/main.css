@@ -1,0 +1,81 @@
+/* Inserta tu codigo aqui */
+
+/* Responsive */
+
+
+.container{
+	width:800px;
+}
+h1,h2,h3,h4{
+  font-family: "Courgette", sansserif;/*agregar scss */
+  color: #ffbc5e; }
+
+a {
+  font-family: "Arial", sansserif;
+  color: #F4F4F4; }
+
+p {
+  font-family: "Arial", sansserif;
+  color: #F4F4F4;
+  font-size: 16px; }
+
+
+* {
+  outline: 1px solid rgba(255, 0, 0, 0.3); }
+
+body{
+	background-color:#424242;
+	height:30px;
+}
+.flatness{
+  background-color:black;
+  height:auto;
+}
+.header_image{
+	background: url(../image/image2.jpg);
+	background-size: cover;
+	background-position: center;
+     height: auto;
+	padding: 15px 20px;
+	
+}
+.life{
+	padding: 10px;
+	background: #0e0e0e;
+    margin-left:150px;
+    margin-right:150px;
+}
+
+.thumbnail{
+	border: none;
+	padding: 0;
+}
+.caption{
+	background-color: #0e0e0e;
+}
+.flonogar{
+	padding: 30px;
+}
+.search2{
+  color: #fff;
+  padding: 15px 30px;
+  background:#424242;
+  border: 1px solid #1C1821;
+  border-radius: 5px;	
+  width: 210px;
+  margin: 20px auto;
+}
+.search1{
+	padding: 15px 30px;
+	background-color: #0e0e0e;
+	border: 1px solid #1C1821;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+.footer{
+	background-color:#0e0e0e;	
+	height:auto;
+	padding:50px;
+	width:100%;
+	margin:0px;
+}
